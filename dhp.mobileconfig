@@ -5,8 +5,8 @@
     <key>PayloadDisplayName</key>
     <string>DHP - Cấu Hình Chặn Thu Hồi Chứng Chỉ</string>
     <key>PayloadDescription</key>
-    <string>Cấu hình chặn thu hồi chứng chỉ tại NVN.ID.VN
-	Admin: Nông Văn Nguyên
+    <string>Cấu hình chặn thu hồi chứng chỉ tại 
+	Admin: Đỗ Hữu Phúc
 </string>
     <key>PayloadIdentifier</key>
     <string>com.cloudflare.warp.6b01a210-dae3-4aee-b94b-1e0c32e564ac.profile</string>
@@ -58,9 +58,9 @@
         <key>PayloadUUID</key>
         <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.6b01a210-dae3-4aee-b94b-1e0c32e564ac.dnsSettings.managed</string>
         <key>PayloadDisplayName</key>
-        <string>NVNDNS</string>
+        <string>DHPDNS</string>
         <key>PayloadOrganization</key>
-        <string>NhutGG</string>
+        <string>PHUCIOS</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
       </dict>
